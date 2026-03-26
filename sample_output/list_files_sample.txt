@@ -1,0 +1,4 @@
+Documents/
+Downloads/
+main.py
+notes.txt
