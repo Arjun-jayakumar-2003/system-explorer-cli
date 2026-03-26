@@ -1,0 +1,3 @@
+Total space = 512.00 GB
+Used space = 200.45 GB
+Free space = 311.55 GB
