@@ -27,4 +27,13 @@ A simple command-line tool to explore system-level information using Python.
 ## Notes
 
 - Some processes may be skipped due to permission restrictions  
-- Log files are created in the directory where the script is executed  
+- Log files are created in the directory where the script is executed
+
+
+## Sample Output
+
+Example outputs for each feature are available in the `sample_output/` folder:
+
+- list_files_sample.txt  
+- disk_usage_sample.txt  
+- process_log_sample.txt  
